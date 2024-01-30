@@ -1,0 +1,43 @@
+.bg{
+  background-image: url(./ocean.jpg);
+  justify-content: center;
+  height: 100vh;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.Auth{
+  position: absolute;
+  right: 1%;
+  top: 4%;
+
+}
+.a{
+  background-color:blanchedalmond;
+  border-radius: 10px;
+
+}
+center{
+  position: absolute;
+  top: 25%;
+  left: 9%;
+}
+h3{
+  position: absolute;
+  left: 1%;
+}
+input{
+  border-radius: 10px;
+  height: 35px;
+  text-align: center;
+}
+.a:hover{
+  background-color: pink;
+}
+button{
+  width: 100px;
+  border-radius: 10px;
+}
+button:hover{
+  background-color:grey;
+  border-color: white;
+}
